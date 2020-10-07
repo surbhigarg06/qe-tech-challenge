@@ -29,7 +29,7 @@ Use **your preferred programming language**. However, our preferred programming 
 
 ### Steps
 
-- Fork this project and make [asanchezgiraldo](https://github.com/asanchezgiraldo) a read-only collaborator.
+- Create your own Github repository and make [asanchezgiraldo](https://github.com/asanchezgiraldo) a read-only collaborator.
 - Create a README.md file explaining how to execute your test.
 - Complete within 3 days of your interview.
 - Be as creative as you can with this challenge.
